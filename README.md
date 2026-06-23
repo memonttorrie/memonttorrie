@@ -34,9 +34,9 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?memonttorrie=memonttorrie&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?memonttorrie=memonttorrie&layout=compact&theme=radical)
 
 </div>
 
@@ -44,7 +44,7 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/memonttorrie/memonttorrie/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -60,11 +60,11 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 <div align="center">
 
-<a href="https://linkedin.com/in/[YourLinkedIn]">
+<a href="https://www.linkedin.com/in/shaneramirezva/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:[YourEmail]">
+<a href="mailto:mkshynbnjsrmz@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
