@@ -15,10 +15,8 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 - 🔭 Currently working on: Data-driven marketing projects in real estate
 - 🌱 Currently learning: Data Analytics, SQL, Power BI, Python
 - 💬 Ask me about: Data analysis, marketing insights, real estate trends
-- 📫 Reach me at: [Your Email or Social Link]
 
 ## 🛠️ Skills & Tools
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
