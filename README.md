@@ -1,13 +1,11 @@
 <!-- PROFILE HEADER -->
 <div align="center">
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Shane!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&color=33FF33&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+a+Data+Analytics+Student!;Focused+on+Marketing+%26+Real+Estate+Insights!" alt="Typing SVG">
 
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -18,8 +16,6 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 - 🌱 Currently learning: Data Analytics, SQL, Power BI, Python
 - 💬 Ask me about: Data analysis, marketing insights, real estate trends
 - 📫 Reach me at: [Your Email or Social Link]
-
----
 
 ## 🛠️ Skills & Tools
 
@@ -34,8 +30,6 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -46,8 +40,6 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 </div>
 
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -56,8 +48,6 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 </div>
 
----
-
 ## 📈 Focus Areas
 
 - 📊 Data Analytics for Marketing Performance
@@ -65,8 +55,6 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 - 📉 Data Visualization & Reporting
 - 🎯 Customer Behavior Analysis
 - 📊 Business Intelligence Dashboards
-
----
 
 ## 🌐 Connect With Me
 
@@ -82,12 +70,8 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 </div>
 
----
-
 ## ✨ Fun Fact
 
 > “Data tells stories — I turn those stories into marketing decisions.”
-
----
 
 ⭐️ Thanks for visiting my profile!
