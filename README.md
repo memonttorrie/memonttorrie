@@ -7,6 +7,8 @@
 
 </div>
 
+---
+
 ## 🚀 About Me
 
 I am a **Student focused on Data Analytics in Marketing**, specialized in the **Real Estate Industry**.  
@@ -16,7 +18,10 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 - 🌱 Currently learning: Data Analytics, SQL, Power BI, Python
 - 💬 Ask me about: Data analysis, marketing insights, real estate trends
 
+---
+
 ## 🛠️ Skills & Tools
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -28,15 +33,19 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?memonttorrie=memonttorrie&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memonttorrie&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?memonttorrie=memonttorrie&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=memonttorrie&layout=compact&theme=radical)
 
 </div>
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -46,6 +55,8 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 </div>
 
+---
+
 ## 📈 Focus Areas
 
 - 📊 Data Analytics for Marketing Performance
@@ -53,6 +64,8 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 - 📉 Data Visualization & Reporting
 - 🎯 Customer Behavior Analysis
 - 📊 Business Intelligence Dashboards
+
+---
 
 ## 🌐 Connect With Me
 
@@ -67,6 +80,8 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 </a>
 
 </div>
+
+---
 
 ## ✨ Fun Fact
 
