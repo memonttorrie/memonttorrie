@@ -51,8 +51,7 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/memonttorrie/memonttorrie/output/github-contribution-grid-snake.svg" />
-
+<img src="https://raw.githubusercontent.com/memonttorrie/memonttorrie/output/github-contribution-grid-snake.svg" /><img src="https://raw.githubusercontent.com/memonttorrie/memonttorrie/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
