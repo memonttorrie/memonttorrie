@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Shane!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&color=33FF33&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+a+Data+Analytics+Student!;Focused+on+Marketing+%26+Real+Estate+Insights!" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&color=2ECC71&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Data+Analytics+Student+in+Marketing;Real+Estate+Data+Insights+Specialist" alt="Typing SVG">
 
 </div>
 
