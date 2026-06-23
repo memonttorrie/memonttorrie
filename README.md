@@ -3,12 +3,11 @@
 
 # 👋 Hi, I'm Shane!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&color=2ECC71&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Data+Analytics+Student+in+Marketing;Real+Estate+Data+Insights+Specialist" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=26&duration=4500&pause=1000&color=2ECC71&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;BSCpE+Student+focused+on+Data+Analytics;Specializing+in+Real+Estate+Market+Insights" alt="Typing SVG">
 
 </div>
 
 ---
-
 ## 🚀 About Me
 
 I am a **Student focused on Data Analytics in Marketing**, specialized in the **Real Estate Industry**.  
@@ -39,19 +38,13 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memonttorrie&show_icons=true&theme=radical)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=memonttorrie&show_icons=true&theme=radical" />
+&nbsp;&nbsp;
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=memonttorrie&layout=compact&theme=radical)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memonttorrie&layout=compact&theme=radical" />
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/memonttorrie/memonttorrie/output/github-contribution-grid-snake.svg" /><img src="https://raw.githubusercontent.com/memonttorrie/memonttorrie/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
