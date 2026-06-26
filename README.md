@@ -1,25 +1,25 @@
 <!-- PROFILE HEADER -->
 <div align="center">
 
-# 👋 Hi, I'm Shane!
+# Hi, I'm Shane!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=26&duration=4500&pause=1000&color=2ECC71&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;BSCpE+Student+focused+on+Data+Analytics;Specializing+in+Real+Estate+Market+Insights" alt="Typing SVG">
 
 </div>
 
 ---
-## 🚀 About Me
+##  About Me
 
 I am a **Student focused on Data Analytics in Marketing**, specialized in the **Real Estate Industry**.  
 I enjoy working with data to uncover insights, improve marketing strategies, and support real estate decision-making.
 
-- 🔭 Currently working on: Data-driven marketing projects in real estate
-- 🌱 Currently learning: Data Analytics, SQL, Power BI, Python
-- 💬 Ask me about: Data analysis, marketing insights, real estate trends
+- Currently working on: Data-driven marketing projects in real estate
+- Currently learning: Data Analytics, SQL, Power BI, Python
+- Ask me about: Data analysis, marketing insights, real estate trends
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <div align="center">
 
@@ -34,7 +34,7 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -49,17 +49,17 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 ---
 
-## 📈 Focus Areas
+## Focus Areas
 
-- 📊 Data Analytics for Marketing Performance
-- 🏡 Real Estate Market Insights & Trends
-- 📉 Data Visualization & Reporting
-- 🎯 Customer Behavior Analysis
-- 📊 Business Intelligence Dashboards
+- Data Analytics for Marketing Performance
+- Real Estate Market Insights & Trends
+  Data Visualization & Reporting
+- Customer Behavior Analysis
+- Business Intelligence Dashboards
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -75,8 +75,8 @@ I enjoy working with data to uncover insights, improve marketing strategies, and
 
 ---
 
-## ✨ Fun Fact
+## Fun Fact
 
 > “Data tells stories — I turn those stories into marketing decisions.”
 
-⭐️ Thanks for visiting my profile!
+Thanks for visiting my profile!
